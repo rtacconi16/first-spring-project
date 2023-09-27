@@ -2,10 +2,10 @@
 
 __What is Spring Boot?__
 
-- Spring is a comprehensive and modular opinionated framework for building Java-based enterprise applications.
+- Spring Boot is a comprehensive and modular opinionated framework for building Java-based enterprise applications.
 - Spring's core feature is Inversion of Control (IoC) through Dependency Injection. It allows developers to manage and inject dependencies into their application components, promoting loose coupling and easier testing.
 - Remove complexity and boilerplate code
-- data access easier to implement
+- Data access easier to implement
 
 **Why Spring?**
 
@@ -25,5 +25,9 @@ __What is Spring Boot?__
 **What is a service?**
 
   Services encapsulate the business logic of an application. They contain methods that perform specific operations, manipulate data, and implement the core functionality of the application.
+
+**What is a REST endpoint**
+
+  A REST endpoint is a specific URL (Uniform Resource Locator) within a web service or web application that is used to access a particular resource or perform a specific action using the principles of Representational State Transfer (REST).
 
 
