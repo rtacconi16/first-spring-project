@@ -22,6 +22,8 @@ __What is Spring Boot?__
 
   Controllers are responsible for mapping incoming HTTP requests to specific methods or functions in your application code based on the request's URL and HTTP method (e.g., GET, POST, PUT, DELETE).
 
+  Controllers route traffic where it's supposed to go.
+
 **What is a service?**
 
   Services encapsulate the business logic of an application. They contain methods that perform specific operations, manipulate data, and implement the core functionality of the application.
